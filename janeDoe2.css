@@ -72,7 +72,8 @@ figure{
 	margin:1em 40px
 }
 img{
-	border: 6px ridge;
+	border-style:solid;
+	border-color:#a6a6a6;
 }
 code,kbd,pre,samp{
 	font-family:monospace,monospace;
