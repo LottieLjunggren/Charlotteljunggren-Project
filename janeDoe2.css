@@ -72,7 +72,7 @@ figure{
 	margin:1em 40px
 }
 img{
-	border-style:none
+	border: 6px ridge grey;
 }
 code,kbd,pre,samp{
 	font-family:monospace,monospace;
