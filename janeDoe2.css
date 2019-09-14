@@ -288,8 +288,8 @@ border-bottom:1px solid #ddd
 border-bottom:none
 }
 .w3-tooltip,.w3-display-container{
-position:relative
-}
+position:relative;
+top:20px;}
 .w3-tooltip .w3-text{
 display:none
 }
