@@ -4,7 +4,7 @@ if(isset($_POST['email'])) {
     // CHANGE THE TWO LINES BELOW
     $email_to = "lottieljunggren@gmail.com";
      
-    $email_subject = "lottieljunggren@gmail.com";
+    $email_subject = "https://charlotteljunggren-project.netlify.com/";
      
      
     function died($error) {
@@ -72,7 +72,7 @@ $headers = 'From: '.$email_from."\r\n".
  
 <!-- place your own success html below -->
  
-Thank you for contacting us. We will be in touch with you very soon.
+Thank you for contacting me. We will be in touch with you very soon.
  
 <?php
 }
