@@ -2,9 +2,9 @@
 if(isset($_POST['email'])) {
      
     // CHANGE THE TWO LINES BELOW
-    $email_to = "you@yourdomain.com";
+    $email_to = "lottieljunggren@gmail.com";
      
-    $email_subject = "website html form submissions";
+    $email_subject = "https://charlotteljunggren-project.netlify.com/";
      
      
     function died($error) {
