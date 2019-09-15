@@ -4,7 +4,7 @@ if(isset($_POST['email'])) {
     // CHANGE THE TWO LINES BELOW
     $email_to = "lottieljunggren@gmail.com";
      
-    $email_subject = "https://charlotteljunggren-project.netlify.com/";
+    $email_subject = "lottieljunggren@gmail.com";
      
      
     function died($error) {
